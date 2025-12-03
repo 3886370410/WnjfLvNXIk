@@ -1,0 +1,2 @@
+# WnjfLvNXIk
+本系统是基于SpringBoot的社区物业管理系统，核心功能包括社区管理、物业服务和居民互动。采用MySQL数据库存储数据，通过Druid连接池优化性能，结合MyBatisPlus简化数据库操作。前端使用Layui框架，Ajax和Json实现动态数据交互，Apache Tomcat作为Web容器。该系统能有效提升物业管理效率，促进居民与物业的沟通，实现社区和谐管理。
